@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "4a7d7e1c7948969cb04f842e5b09fc73"
+build_time: [1559698595, 557234000]
+inputs:
+  "/Users/raghutumati/Desktop/C++/BLE4.0-iOS-Swift-Demo-master/BLEDemo/MainViewController.swift": [1557517696, 726538507]
+  "/Users/raghutumati/Desktop/C++/BLE4.0-iOS-Swift-Demo-master/BLEDemo/AppDelegate.swift": [1539249164, 0]
+  "/Users/raghutumati/Desktop/C++/BLE4.0-iOS-Swift-Demo-master/BLEDemo/ScanTableViewController.swift": [1557520142, 27754195]
